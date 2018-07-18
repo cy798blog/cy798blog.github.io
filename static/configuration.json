@@ -1,15 +1,15 @@
 {
-    "githubUsername": "GitHub-Laziji",
-    "blogTitle": "Laziji",
-    "blogDescribe": "欢迎来到辣子鸡的个人博客。",
-    "htmlTitle": "辣子鸡的博客",
+    "githubUsername": "cy798blog",
+    "blogTitle": "言岚",
+    "blogDescribe": "这是一个孤独的世界。",
+    "htmlTitle": "言岚的博客",
     "fontColor": "#ffffff",
     "useBackgroundImage": false,
     "backgroundColorLeft": "#2690F9",
     "backgroundColorRight": "#FC2D2D",
-    "audioUrl": "http://sc1.111ttt.cn:8282/2018/1/03m/13/396131232171.m4a?tflag=1519095601&pin=6cd414115fdb9a950d827487b16b5f97#.mp3",
+    "audioUrl": "https://music.cy798.cn/%E4%B8%8D%E8%B4%9F%E6%97%B6%E5%85%89%20-%20%E4%BA%91%E4%B9%8B%E6%B3%A3%3B%E7%81%B0%E8%80%81%E6%9D%BF%3B%E4%B8%8D%E6%89%8D%3BZHUCOOL%3BHITA%3B%E8%B4%B0%E5%A9%B6%3B%E8%AE%B8%E5%A4%9A%E8%91%B5%3B%E6%B5%81%E6%B5%AA%E7%9A%84%E8%9B%99%E8%9B%99%3B%E5%B0%8F%E7%88%B1%E7%9A%84%E5%A6%88%3Bsmile_%E5%B0%8F%E5%8D%83%3B%E6%A2%A6%E7%92%9FSAYA%3B%E8%90%A7%E5%BF%86%E6%83%85Alex%3BAki%E9%98%BF%E6%9D%B0%3B%E6%A9%99%E7%BF%BC%3B%E7%BB%AF%E6%9D%91%E6%9F%AF%E5%8C%97%3B%E7%8C%AB%E9%A5%AD%3B%E9%99%88%E9%B9%8F%E6%9D%B0%3B%E5%A5%87%E7%84%B6%3B%E6%B8%85%E5%BC%84%3B%E5%90%BE%E6%81%A9%3B%E9%93%B6%E4%B8%B4%3B%E9%98%BF%E6%9D%B0729%3B%E6%AA%80%E7%83%A7%3B%E5%8D%A2%E5%B0%8F%E6%97%AD%3B%E5%AD%99%E7%BF%94%3B%E4%B8%8D%E7%BA%AF%E5%90%9B.mp3",
     "mini": false,
     "webSites":[
-        {"name":"v2ex" , "url":"https://www.v2ex.com/member/laziji"}
+        {"name":"言岚" , "url":"http://chyon.cn/"}
     ]
 }
